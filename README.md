@@ -10,3 +10,9 @@ UNL's VPN service makes it possible to connect and initiate a remote desktop ses
 ![anyconnect](https://github.com/Infinite-Actuary/UNL-VPN/blob/master/images/anyconnect-web.PNG)
 
 * Once the client is installed, launch it and connect to `vpn.unl.edu`
+
+![anyconnect-launch](https://github.com/Infinite-Actuary/UNL-VPN/blob/master/images/anyconnect-launch.PNG)
+
+* Connecting requires your My.UNL (Canvas/Blackboard) credentials
+
+![anyconnect-login](https://github.com/Infinite-Actuary/UNL-VPN/blob/master/images/anyconnect-login.PNG)
