@@ -20,3 +20,6 @@ UNL's VPN service makes it possible to connect and initiate a remote desktop ses
 * Once the connection is established, we can connect to a specific device by launching the `Remote Desktop Connection` app
 
 ![remote-desktop](https://github.com/Infinite-Actuary/UNL-VPN/blob/master/images/remote-desktop.PNG)
+
+* This requires the fully qualified computer name `{system_name}.unl.edu` and the full domain name for the user `unl-ad\{user_name}`
+* The `System Name` can be found by launching the `System Information` app
