@@ -5,6 +5,6 @@ UNL's VPN service makes it possible to connect and initiate a remote desktop ses
 ![tunneling](https://github.com/Infinite-Actuary/UNL-VPN/blob/master/images/tunnel-options.PNG)
 
 * To begin, navigate to [unl.vpn.edu](https://vpn.unl.edu/+CSCOE+/logon.html)
-* This will prompt you to install [Cisco AnyConnect Secure Mobility Client](https://www.cisco.com/c/en/us/products/security/anyconnect-secure-mobility-client/index.html)
+* This will prompt you to install the [Cisco AnyConnect Secure Mobility Client](https://www.cisco.com/c/en/us/products/security/anyconnect-secure-mobility-client/index.html)
 
 ![anyconnect](https://github.com/Infinite-Actuary/UNL-VPN/blob/master/images/anyconnect-web.PNG)
