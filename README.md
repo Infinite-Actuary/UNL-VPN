@@ -23,3 +23,5 @@ UNL's VPN service makes it possible to connect and initiate a remote desktop ses
 
 * This requires the fully qualified computer name `{system_name}.unl.edu` and the full domain name for the user `unl-ad\{user_name}`
 * The `System Name` can be found by launching the `System Information` app
+
+![system-info](https://github.com/Infinite-Actuary/UNL-VPN/blob/master/images/system-information.png)
