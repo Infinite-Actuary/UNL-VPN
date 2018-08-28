@@ -25,3 +25,15 @@ UNL's VPN service makes it possible to connect and initiate a remote desktop ses
 * The `System Name` can be found by launching the `System Information` app
 
 ![system-info](https://github.com/Infinite-Actuary/UNL-VPN/blob/master/images/system-information.png)
+
+## On Linux
+
+If your home machine is Linux and you would like to connect to your office computer running Windows.
+
+* Download the **Cisco Anyconnect Secure Mobility Client** (`anyconnect-linux64-<version>-core-vpn-webdeploy-k9.sh`) from [Cisco software](https://software.cisco.com/download/home/283000185) and run with `sudo bash`.
+
+* Install [Remmina](https://remmina.org) (a remote desktop client) with `sudo apt-get install remmina` or see [how to install](https://remmina.org/how-to-install-remmina)
+
+* Launch the **Cisco Anyconnect Secure Mobility Client** and connect to `vpn.unl.edu`
+
+* Launch Remmina and configure a new connection
