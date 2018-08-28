@@ -36,4 +36,8 @@ If your home machine is Linux and you would like to connect to your office compu
 
 * Launch the **Cisco Anyconnect Secure Mobility Client** and connect to `vpn.unl.edu`
 
+![linux-anyconnect](https://github.com/Infinite-Actuary/UNL-VPN/blob/master/images/cisco.png)
+
 * Launch Remmina and configure a new connection
+
+![remmina-connect](https://github.com/Infinite-Actuary/UNL-VPN/blob/master/images/remmina-connect.png)
